@@ -12,6 +12,8 @@ banner-button-text: Learn more
 banner-button-link: /about/
 ---
 ## What we do
-GSA helps keep the nation safe by providing tools, equipment, and non-tactical vehicles to the U.S. military, and providing state and local governments with law enforcement equipment, firefighting and rescue equipment, and disaster recovery products and services.
+The Unified Shared Services Management (USSM) office, residing in the General Services Administration (GSA), provides the strategy and leadership to make mission enabling services better, faster and more affordable.
 
-GSA leads the way in green building design, construction, retrofit and sustainable operations and maintenance. GSA is building a 21st century government that procures and manages technology solutions in smart, secure, and affordable ways.
+Common administrative service areas like financial management (FM), human resources (HR), acquisition, information technology (IT), grants management, and travel are performed across all federal agencies. Yet agencies have spent billions of dollars to each individually build their own technology and service capabilities. USSM is transforming the way government does business internally, to drive agencies to share investments in people, business processes and technology; and to function more as one enterprise serving the American public. This strategy, known as shared services, is an industry best practice for reducing cost and eliminating redundancies by streamlining processes, systems and workforce to deliver common administrative services.
+
+Visit our website frequently to stay current on new initiatives and tools designed to better service the shared services ecosystem.
