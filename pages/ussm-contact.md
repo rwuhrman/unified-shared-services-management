@@ -2,7 +2,6 @@
 layout: page
 title: Contact
 permalink: /ussm-contact/
-image: /assets/img/about.jpg
 ---
 
 ## Contact Us
