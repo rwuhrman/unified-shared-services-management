@@ -7,6 +7,8 @@ logo: /assets/img/logo-main.gif
 feature_image: /assets/img/frontpageheader.png
 org_name: GSA
 repo_name: federalist-modern-team-template
+exec_director: "Beth Angerman"
+exec_bio: "bio-beth-angerman"
 
 colors:
   background: '#555555'
