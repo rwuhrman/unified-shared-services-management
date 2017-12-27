@@ -37,7 +37,7 @@ assigned:
     -
         text: 'Contact Us'
         href: pages/ussm-contact.md
-        permalink: /contact-us/
+        permalink: /ussm-contact/
         show_in_menu: true
         show_in_footer: false
     -
