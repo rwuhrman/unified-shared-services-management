@@ -1,24 +1,29 @@
 .tbtable {
   display: table;
   width: 100%;
-  margin-bottom: 2em
+  margin-bottom: 2em;
+  vertical-align: top;
 }
 
 .tbcell {
   display: table-cell;
+  vertical-align: top;
 }
 
 .tbleft {
   background: #d00;
+  vertical-align: top;
 }
 
 .tbright {
   background: #0d0;
+  vertical-align: top;
   text-align: right /* only needed for the table version */
 }
 
 .tbcell div {
   display: inline-block;
+  vertical-align: top;
   background: #aaa;
   padding: 1em
 }
