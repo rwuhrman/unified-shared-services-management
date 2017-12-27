@@ -2,7 +2,7 @@
 layout: page
 title: About Unified Shared Services Management
 permalink: /about/
-image: /assets/img/about.jpg
+image: /assets/img/banner70.png
 ---
 
 ## About Unified Shared Services Management
