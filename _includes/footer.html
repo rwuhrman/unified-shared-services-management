@@ -16,7 +16,7 @@
   {% endif %}
   <div class="usa-footer-secondary_section">
     <div class="usa-grid">
-      <div class="usa-footer-logo usa-width-one-half" style="border-style:dotted;">
+      <div class="usa-footer-logo usa-width-one-fourth" style="border-style:dotted;">
         
        Related Websites<BR>
         <A HREF="https://cfo.gov">CFO.gov</A><BR>
@@ -27,11 +27,16 @@
         <A HREF="https://pic.gov">PIC.gov</A><BR>
         <A HREF="https://treasury.gov">Treasury.gov</A><BR>
         
-        
-        
+         </div>
+       
+      <div class="usa-footer-logo usa-width-one-fourth" style="border-style:dotted;">
+      
          Archives<BR>
         <A HREF="https://www.ussm.gov/m3-archive-2016-archive">M3 Playbook (Version 2016)</A><BR>
+        </DIV>  
         
+           <div class="usa-footer-logo usa-width-one-fourth" style="border-style:dotted;">
+      
         
         Website Information<BR>
         <A HREF="http://www.gsa.gov/portal/content/116621">Accessibility Information</A><BR>
@@ -42,17 +47,11 @@
         <A HREF="http://www.gsa.gov/portal/content/116609">Privacy Statement</A><BR>
         <A HREF="http://www.usa.gov/">USA.gov</A><BR>
         
+             </DIV>  
         
-        
-        {% if site.footer.image %}
-          <img class="usa-footer-logo-img" src="{{ site.footer.image | prepend: site.baseurl }}" alt="Logo image">
-        {% endif %}
-        {% if site.footer.text %}
-          <p>{{ site.footer.text }} <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}" target="_blank">Suggest an edit</a>.</p>
-        {% endif %}
-      </div>
+      
 
-      <div class="usa-footer-contact-links usa-width-one-half">
+      <div class="usa-footer-contact-links usa-width-one-fourth">
           {% if site.footer.contact.twitter %}
           <a class="usa-link-twitter" href="https://twitter.com/{{ twitter }}"><span>Twitter</span></a>
           {% endif %}
