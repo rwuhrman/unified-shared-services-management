@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Servicemember TSP Enrollment
+title: Federal NewPay
 description: A single email to military Servicemembers nearly doubled the rate of enrollment for a savings plan.
 permalink: /projects/tsp-enrollment/
 tags: project
