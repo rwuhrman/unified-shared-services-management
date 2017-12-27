@@ -11,12 +11,12 @@
 }
 
 .tbleft {
-  background: #d00;
+  background: #ffffff;
   vertical-align: top;
 }
 
 .tbright {
-  background: #0d0;
+  background: #ffffff;
   vertical-align: top;
   text-align: right /* only needed for the table version */
 }
@@ -24,7 +24,7 @@
 .tbcell div {
   display: inline-block;
   vertical-align: top;
-  background: #aaa;
+  background: #ffffff;
   padding: 1em
 }
 
