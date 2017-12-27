@@ -14,7 +14,7 @@ assigned:
     -
         text: Initiatives
         href: pages/projects.md
-        permalink: /projects/
+        permalink: /initiatives/
         show_in_menu: true
         show_in_footer: false
         children:
