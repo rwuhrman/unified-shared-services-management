@@ -3,12 +3,16 @@ layout: base
 ---
 <section class="usa-section usa-grid">
   <h1> {{ page.title }}</h1>
-  {% if page.image %}
-  <img align=right src="{{ page.image | prepend: site.baseurl }}">
-  {% endif %}
-  {{ content }}
-  {% include about.html %}
+ <div class="tbtable">
+  <div class="tbcell left">
+    <div>{{ content }}</div>
   </div>
+  <div class="tbcell right">
+    <div>
+      {% if page.image %}
+      <img src="{{ page.image | prepend: site.baseurl }}">
+     {% endif %}
+    </div>
+  </div>
+</div
 </section>
-
-
