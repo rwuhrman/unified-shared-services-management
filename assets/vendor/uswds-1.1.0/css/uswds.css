@@ -29,6 +29,13 @@
 }
 
 
+.m3-table   {
+  border-spacing: 0;
+  margin: 2em 0;
+  min-width: 80%;
+}
+
+
 /*! uswds v1.1.0 */
 html {
   box-sizing: border-box;
