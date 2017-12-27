@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Contact
+title: Contact Us
 permalink: /ussm-contact/
 ---
-
-## Contact Us
 
 Can't find what you're looking for?
 
