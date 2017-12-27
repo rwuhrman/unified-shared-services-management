@@ -19,12 +19,17 @@ assigned:
         show_in_footer: false
         children:
             -
-                text: 'Microloans for Farmers'
+                text: 'M3 Framework'
                 href: pages/projects/microloans-for-farmers.md
                 show_in_menu: false
                 show_in_footer: false
             -
-                text: 'Reducing Summer Melt'
+                text: 'Federal Integrated Businss Framework'
+                href: pages/projects/reducing-summer-melt.md
+                show_in_menu: false
+                show_in_footer: false
+            -
+                text: 'Federal NewPay'
                 href: pages/projects/reducing-summer-melt.md
                 show_in_menu: false
                 show_in_footer: false
