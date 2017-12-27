@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Microloans for Farmers
+title: Modernization and Migration Managemen Framework
 description: A new letter increases farmers' access to credit by 22%.
 permalink: /projects/microloans-for-farmers/
 tags: project
