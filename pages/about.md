@@ -1,18 +1,28 @@
 ---
 layout: page
-title: About
+title: About Unified Shared Services Management
 permalink: /about/
 image: /assets/img/about.jpg
 ---
 
-## About GSA
+## About Unified Shared Services Management
 
-GSA provides workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, telecommunications, and information technology to government organizations and the military. GSA policies promote management best practices and efficient government operations.
+### Vision
+An ecosystem that eliminates redundancy, reduces risk, and leverages government’s buying power to deliver administrative services that make the government more efficient and effective.
 
 ### Mission
+Transform the way government does business internally to improve the way the government serves the American public.
 
-The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people.
+Established in October of 2015, USSM oversees the shared service ecosystem and provides the strategy and leadership to make mission enabling services better, faster and cheaper. USSM, in coordination with the White House Office of Management and Budget and the Shared Services Governance Board, works to achieve three strategic goals:
 
-### History
+    1. Enable the Federal government to make better decisions by making performance and cost data transparent.
+ 
 
-GSA was established by President Harry Truman on July 1, 1949, to streamline the administrative work of the federal government.  GSA consolidated the National Archives Establishment, the Federal Works Agency and its Public Buildings Administration, the Bureau of Federal Supply and the Office of Contract Settlement, and the War Assets Administration into one federal agency tasked with administering supplies and providing workplaces for federal employees
+    2. Reduce duplication & cost across government for shared administrative functions.
+ 
+
+    3. Propose and reform policies/guidance to enable the vision for shared services, increase the likelihood of successful migrations, and reduce the barriers to adoption.
+    
+USSM is led by its Executive Director, Beth Angerman, and comprised of a mix of employees and detailees from various Federal agencies.
+
+To learn more about the shared service ecosystem and USSM’s responsibilities see OMB Memorandum 16-11, Improving Administrative Functions Through Shared Services.
