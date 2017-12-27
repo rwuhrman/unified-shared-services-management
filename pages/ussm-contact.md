@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /ussm-contact/
 image: /assets/img/about.jpg
 ---
 
-## About GSA
+## Contact US
 
 GSA provides workplaces by constructing, managing, and preserving government buildings and by leasing and managing commercial real estate. GSA's acquisition solutions offer private sector professional services, equipment, supplies, telecommunications, and information technology to government organizations and the military. GSA policies promote management best practices and efficient government operations.
 
