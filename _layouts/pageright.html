@@ -5,7 +5,7 @@ layout: base
 <section class="usa-section usa-grid">
   <h1> {{ page.title }}</h1>
   {% if page.image %}
-  <div class="page--banner" style="background-image: url({{ page.image | prepend: site.baseurl }});"></div>
+  <img align=right src="url({{ page.image | prepend: site.baseurl }});">
   {% endif %}
   {{ content }}
   </div>
