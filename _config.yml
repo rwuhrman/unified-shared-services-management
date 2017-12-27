@@ -1,8 +1,8 @@
 # Site settings
 title: Unified Shared Services Management
 description: Unified Shared Services Management (USSM) 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://federalist-modern-team-template.18f.gov" # the base hostname & protocol for your site
+baseurl: "/site/rwuhrman/unified-shared-services-management/" # the subpath of your site, e.g. /blog/
+url: "https://federalist-proxy.app.cloud.gov" # the base hostname & protocol for your site
 logo: /assets/img/logo-main.gif
 feature_image: /assets/img/frontpageheader.png
 org_name: GSA
@@ -41,7 +41,7 @@ analytics:
     code: 'UA-48605964-32' # Change this to your GSA analytics code
   dap:
     agency: GSA    # Change this to your agency
-    subagency: 18F # Change this to your agency
+    subagency: USSM # Change this to your agency
 
 defaults:
  -
@@ -79,8 +79,8 @@ footer:
   image: /assets/img/gsa-logo-dark.jpg
   contact:
     name: GSA
-    phonenumber: 1-800-CALL-GOV
-    email: gsa@gsa.gov
+    phonenumber: 1-800-555-5555
+    email: ussmteam@gsa.gov
     twitter:
       - 18f
     facebook: 18f
