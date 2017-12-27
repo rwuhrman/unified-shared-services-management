@@ -36,8 +36,8 @@ assigned:
         show_in_footer: false
     -
         text: 'Contact Us'
-        href: pages/team.md
-        permalink: /team/
+        href: pages/ussm-contact.md
+        permalink: /ussm-contact
         show_in_menu: true
         show_in_footer: false
     -
