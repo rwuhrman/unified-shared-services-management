@@ -7,7 +7,8 @@ layout: base
   <img align=right src="{{ page.image | prepend: site.baseurl }}">
   {% endif %}
   {{ content }}
+  {% include about.html %}
   </div>
 </section>
 
-{% include about.html %}
+
