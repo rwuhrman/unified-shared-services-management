@@ -9,7 +9,7 @@ org_name: GSA
 repo_name: federalist-modern-team-template
 
 colors:
-  background: '#ffffff'
+  background: '#efefef'
   link:
     color: '#0071bc'
     active: '#0071bc'
