@@ -2,7 +2,7 @@
 layout: home
 body-class: home
 permalink: /
-hero-image: /assets/img/feature-background.jpg
+hero-image: /assets/img/frontpageheader.png
 hero-text: "Our mission is to transform the way government does business internally to improve the way the government services the American public."
 hero-button-text: Learn More
 hero-button-link: /about/
