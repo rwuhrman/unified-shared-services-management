@@ -30,18 +30,21 @@
 
 .aTable {
   border: 1px solid #ffffff;  
+  vertical-align: top;
   padding: 0px; 
   border-spacing: 0px;
   border-collapse: 0px; 
 }
 .aTable tr {
   border: 1px solid #ffffff;  
+  vertical-align: top;
   padding: 0px; 
   border-spacing: 0px;
   border-collapse: 0px; 
 }
 .aTable td {
   border: 1px solid #ffffff;  
+  vertical-align: top;
   padding: 0px; 
   border-spacing: 0px;
   border-collapse: 0px; 
@@ -49,6 +52,7 @@
 
 .aTable tbody {
   border: 1px solid #ffffff;  
+  vertical-align: top;
   padding: 0px; 
   border-spacing: 0px;
   border-collapse: 0px; 
