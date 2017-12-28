@@ -1,5 +1,5 @@
 ---
-layout: customers
+layout: council
 title: Customer Council
 permalink: /customers/
 image: /assets/img/customers.png
