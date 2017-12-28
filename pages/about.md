@@ -4,7 +4,6 @@ title: About Unified Shared Services Management
 permalink: /about/
 image: /assets/img/banner70.png
 ---
-
 ### Vision
 An ecosystem that eliminates redundancy, reduces risk, and leverages government’s buying power to deliver administrative services that make the government more efficient and effective.
 
