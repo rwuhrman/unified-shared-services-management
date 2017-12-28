@@ -9,7 +9,7 @@ The Customer Council exists to give consumers of shared services, both current a
 Council members represent the interests of their respective agencies across a number of management functions and are responsible for soliciting input and feedback from their colleagues as appropriate.
 
 | Representation     | Name           | 
-| ------------- |:-------------:| 
+| ------------- |-------------| 
 | Department of Commerce    | TBD | 
 | Department of Treasury      | TBD      | 
 | Unified Shared Services Management | Beth Angerman      |  
