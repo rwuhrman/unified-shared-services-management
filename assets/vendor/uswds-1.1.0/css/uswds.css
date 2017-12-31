@@ -69,6 +69,11 @@
   width: 75%;
 }
 
+.m3Cell {
+	padding: 5px;
+	Vertical-align: top;
+}
+
 
 .ActivityCustomer {
 	font-family: calibri;
