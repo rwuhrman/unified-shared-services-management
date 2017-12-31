@@ -70,6 +70,13 @@
 }
 
 
+.ActivityCustomer {
+	font-family: calibri;
+	color: #cc0066;
+	font-size: 14px;
+}
+
+
 /*! uswds v1.1.0 */
 html {
   box-sizing: border-box;
