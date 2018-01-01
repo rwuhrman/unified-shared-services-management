@@ -4490,7 +4490,7 @@ input.usa-input-medium {
 }
 
 .aTable {
-  border: 1px solid #000000;  
+  border: 0px solid #000000;  
   vertical-align: top;
   padding: 0px; 
   position: relative;
@@ -4500,14 +4500,14 @@ input.usa-input-medium {
   border-collapse: 0px; 
 }
 .aTable tr {
-  border: 1px solid #000000;  
+  border: 0px solid #000000;  
   vertical-align: top;
   padding: 0px; 
   border-spacing: 0px;
   border-collapse: 0px; 
 }
 .aTable td {
-  border: 1px solid #000000;  
+  border: 0px solid #000000;  
   vertical-align: top;
   padding: 0px; 
   border-spacing: 0px;
@@ -4515,7 +4515,7 @@ input.usa-input-medium {
 }
 
 .aTable tbody {
-  border: 1px solid #000000;  
+  border: 0px solid #000000;  
   vertical-align: top;
   padding: 0px; 
   border-spacing: 0px;
@@ -4550,6 +4550,15 @@ input.usa-input-medium {
 	border: 1px solid #8c8c8c;
 	border-spacing: 2px;
 }
+
+
+.ActivityTable td {
+	border: 1px solid #8c8c8c;
+	border-spacing: 2px;
+	vertical-align: top;
+}
+
+
 
 .DefinitionText {
 	color: #000000;
