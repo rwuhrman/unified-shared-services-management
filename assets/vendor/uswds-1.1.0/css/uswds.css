@@ -1669,7 +1669,7 @@ p + ol {
 
 table {
   border-spacing: 0;
-  margin: 2em 0;
+  margin: .2em 0;
 }
 
 table thead th,
@@ -1689,7 +1689,7 @@ table th,
 table td {
   background-color: #ffffff;
   border: 1px solid #5b616b;
-  padding: 1.5rem;
+  padding: .15rem;
 }
 
 .usa-table-borderless thead tr {
