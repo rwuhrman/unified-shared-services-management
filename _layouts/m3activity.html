@@ -1,4 +1,9 @@
 ---
 layout: base
 ---
- {% include m3activity.01.01.html %}
+{% if page.id == "1.1" %}
+   {% include m3activity.01.01.html %}
+{% elsif page.id == "1.2" %}
+  {% include m3activity.01.02.html %}
+{% else %}
+{% endif %} 
