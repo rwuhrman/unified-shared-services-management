@@ -1621,6 +1621,85 @@ legend {
 }
 
  /*! Middle 1623 */
+
+
+ul,
+ol {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-left: 1.94em;
+}
+
+li {
+  line-height: 1.5;
+  margin-bottom: 0.5em;
+}
+
+li:last-child {
+  margin-bottom: 0;
+}
+
+h1 + ul,
+h1 + ol,
+h2 + ul,
+h2 + ol,
+h3 + ul,
+h3 + ol,
+h4 + ul,
+h4 + ol,
+h5 + ul,
+h5 + ol,
+h6 + ul,
+h6 + ol,
+p + ul,
+p + ol {
+  margin-top: 0;
+}
+
+.usa-unstyled-list {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.usa-unstyled-list > li {
+  margin-bottom: 0;
+}
+
+table {
+  border-spacing: 0;
+  margin: 2em 0;
+}
+
+table thead th,
+table thead td {
+  background-color: #f1f1f1;
+}
+
+table th {
+  text-align: left;
+}
+
+table tbody th {
+  font-weight: 400;
+}
+
+table th,
+table td {
+  background-color: #ffffff;
+  border: 1px solid #5b616b;
+  padding: 1.5rem;
+}
+
+.usa-table-borderless thead tr {
+  background-color: transparent;
+}
+
+.usa-table-borderless thead th {
+  border-top: 0;
+}
+
  /*! Middle 1700 */
 
 .usa-table-borderless th,
