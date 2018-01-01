@@ -4490,7 +4490,7 @@ input.usa-input-medium {
 }
 
 .aTable {
-  border: 0px solid #000000;  
+  border: 0px solid #FFFFFF;  
   vertical-align: top;
   padding: 0px; 
   position: relative;
@@ -4500,14 +4500,14 @@ input.usa-input-medium {
   border-collapse: 0px; 
 }
 .aTable tr {
-  border: 0px solid #000000;  
+  border: 0px solid #FFFFFF;  
   vertical-align: top;
   padding: 0px; 
   border-spacing: 0px;
   border-collapse: 0px; 
 }
 .aTable td {
-  border: 0px solid #000000;  
+  border: 0px solid #FFFFFF;  
   vertical-align: top;
   padding: 0px; 
   border-spacing: 0px;
@@ -4515,7 +4515,7 @@ input.usa-input-medium {
 }
 
 .aTable tbody {
-  border: 0px solid #000000;  
+  border: 0px solid #FFFFFF;  
   vertical-align: top;
   padding: 0px; 
   border-spacing: 0px;
@@ -4547,7 +4547,7 @@ input.usa-input-medium {
 }
 
 .ActivityTable {
-	border: 1px solid #8c8c8c;
+	border: 1x solid #8c8c8c;
 	border-spacing: 2px;
 }
 
