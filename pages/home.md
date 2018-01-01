@@ -3,7 +3,7 @@ layout: home
 body-class: home
 permalink: /
 hero-image: /assets/img/frontpageheader.png
-hero-text: "Our mission is to transform the way government does business internally to improve the way the government services the American public."
+hero-text: "Test - Our mission is to transform the way government does business internally to improve the way the government services the American public."
 hero-button-text: Learn More
 hero-button-link: /about/
 banner-heading: The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people.
