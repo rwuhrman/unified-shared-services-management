@@ -4523,6 +4523,26 @@ input.usa-input-medium {
 }
 
 
+.cTable {
+style="border: 1px solid #FFFFFF;"	
+vertical-align: top;
+}
+
+
+.cTable tbody {
+style="border: 1px solid #FFFFFF;"	
+vertical-align: top;}
+
+
+.cTable tr {
+style="border: 1px solid #FFFFFF;"	
+vertical-align: top;}
+
+
+.cTable td {
+style="border: 1px solid #FFFFFF;"	
+vertical-align: top;}
+
 .m3-table   {
   border-spacing: 0;
   border-color: #ffffff;
