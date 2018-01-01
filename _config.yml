@@ -1,6 +1,6 @@
 # Site settings
-title: Unified Shared Services Management
-description: Unified Shared Services Management (USSM) 
+title: Unified Shared Services Management - Test
+description: Unified Shared Services Management (USSM) - Test 
 baseurl: "/site/rwuhrman/unified-shared-services-management/" # the subpath of your site, e.g. /blog/
 url: "https://federalist-proxy.app.cloud.gov" # the base hostname & protocol for your site
 logo: /assets/img/logo-main.gif
