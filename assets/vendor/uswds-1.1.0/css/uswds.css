@@ -1548,6 +1548,155 @@ legend {
   width: 2.2rem;
 }
  /*! Middle 1550 */
+[type=range]::-ms-fill-lower {
+  background: #aeb0b5;
+  border: 1px solid #757575;
+  border-radius: 2rem;
+}
+
+[type=range]::-ms-fill-upper {
+  background: #aeb0b5;
+  border: 1px solid #757575;
+  border-radius: 2rem;
+}
+
+[type=range]:focus::-webkit-slider-thumb {
+  border: 2px solid #3e94cf;
+}
+
+[type=range]:focus::-moz-range-thumb {
+  border: 2px solid #3e94cf;
+}
+
+[type=range]:focus::-ms-thumb {
+  border: 2px solid #3e94cf;
+}
+
+.usa-date-of-birth label {
+  margin-top: 0;
+}
+
+.usa-date-of-birth [type=number]::-webkit-inner-spin-button,
+.usa-date-of-birth [type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+
+.usa-date-of-birth [type=number] {
+  -moz-appearance: textfield;
+}
+
+.usa-form-group-day,
+.usa-form-group-month,
+.usa-form-group-year {
+  clear: none;
+  float: left;
+  margin-right: 1.5rem;
+  width: 5rem;
+}
+
+.usa-form-group-year {
+  width: 7rem;
+}
+
+.usa-label, .usa-label-big {
+  background-color: #0071bc;
+  border-radius: 0.3rem;
+  color: #ffffff;
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+  padding: 0.1rem 0.7rem;
+  text-transform: uppercase;
+}
+
+.usa-label:only-of-type, .usa-label-big:only-of-type {
+  margin-right: 0;
+}
+
+.usa-label-big {
+  font-size: 1.7rem;
+  padding-left: 0.9rem;
+  padding-right: 0.9rem;
+}
+
+ul,
+ol {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  padding-left: 1.94em;
+}
+
+li {
+  line-height: 1.5;
+  margin-bottom: 0.5em;
+}
+
+li:last-child {
+  margin-bottom: 0;
+}
+
+h1 + ul,
+h1 + ol,
+h2 + ul,
+h2 + ol,
+h3 + ul,
+h3 + ol,
+h4 + ul,
+h4 + ol,
+h5 + ul,
+h5 + ol,
+h6 + ul,
+h6 + ol,
+p + ul,
+p + ol {
+  margin-top: 0;
+}
+
+.usa-unstyled-list {
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.usa-unstyled-list > li {
+  margin-bottom: 0;
+}
+
+table {
+  border-spacing: 0;
+  margin: 2em 0;
+}
+
+table thead th,
+table thead td {
+  background-color: #f1f1f1;
+}
+
+table th {
+  text-align: left;
+}
+
+table tbody th {
+  font-weight: 400;
+}
+
+table th,
+table td {
+  background-color: #ffffff;
+  border: 1px solid #5b616b;
+  padding: 1.5rem;
+}
+
+.usa-table-borderless thead tr {
+  background-color: transparent;
+}
+
+.usa-table-borderless thead th {
+  border-top: 0;
+}
+
  /*! Middle 1700 */
 
 .usa-table-borderless th,
