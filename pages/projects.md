@@ -3,7 +3,7 @@ layout: project-list
 title: Initiatives
 permalink: /initiatives/
 ---
-
-As a result of our programs, more people are saving for retirement, more students are going to college and better managing their student loans, more Veterans are taking advantage of education and career counseling benefits, more small farms are gaining access to credit, and more families are securing health insurance coverage.
-
 ## Fiscal Year 2018 Initiatives
+USSM, in partnership with the community, is working on several initiatives to enable the delivery of high-quality, high-value shared services that improve performance and efficiency throughout government. Below is more information on some of the key priorities.
+
+
