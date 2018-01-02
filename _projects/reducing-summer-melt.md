@@ -1,8 +1,8 @@
 ---
 layout: project
 title: Federal Integrated Business Framework
-description: Eight personalized text messages to low-income students resulted in a nearly 9% increase in college enrollment.
-permalink: /projects/reducing-summer-melt/
+description: 
+permalink: /fibf/
 tags: project
 image: /assets/img/project-images/summer-melt.jpg
 image-credit: https://www.flickr.com/photos/jenumfamily
