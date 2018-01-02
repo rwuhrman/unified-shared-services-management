@@ -14,8 +14,8 @@ layout: base
 
 {% if page.banner-heading %}
 
-<section class="usa-grid usa-section">
-  <div class="usa-width-one-whole usa-end-row">
+<section class="usa-grid usa-section" style="border: 1px solid #000000;">
+  <div class="usa-width-one-whole usa-end-row"  style="border: 1px solid #FF0000;">
     {{ content }}
     {% if page.content-button-link %}
       <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
