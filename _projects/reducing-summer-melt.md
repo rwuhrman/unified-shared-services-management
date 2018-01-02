@@ -6,7 +6,7 @@ permalink: /fibf/
 tags: project
 image: /assets/img/project-images/summer-melt.jpg
 image-credit: https://www.flickr.com/photos/jenumfamily
-abstract: /assets/files/reducing-summer-melt.pdf
+abstract: 
 ---
 <h2 style="font-family: arial"><strong>Federal Integrated Business Framework</strong></h2>
 <p><span style="font-family: arial;font-size: 18px;font-weight: strong"><B>What is the Federal Integrated Business Framework (FIBF)?</B></span></p>
