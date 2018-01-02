@@ -9,8 +9,8 @@ USSM, in partnership with the community, is working on several initiatives to en
 <table border="1" width="75%" align="center">
 <tbody>
 <tr>
-<td align="center"><a href="../m3" class="local-link"><img src="/assets/img/playbook2.png" border="0" /></a></td>
-<td align="center"><a href="../providerstat" class="local-link"><img src="/assets/img/providerstat.circle.png" width="140" height="140" border="0" /></a></td>
+<td align="center"><a href="../m3" class="local-link"><img src="../assets/img/playbook2.png" border="0" /></a></td>
+<td align="center"><a href="../providerstat" class="local-link"><img src="../assets/img/providerstat.circle.png" width="140" height="140" border="0" /></a></td>
 <td align="center"><a href="https://www.ussm.gov/einvoicing/" class="local-link"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1041/2017/01/einvoice.icon_.png" width="140" height="140" border="0" /></a></td>
 </tr>
 <tr>
@@ -23,7 +23,7 @@ Performance Management</td>
 <td colspan="3"></td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.ussm.gov/governance" class="local-link"><img src="/assets/img/governance.png" border="0" /></a></td>
+<td align="center"><a href="https://www.ussm.gov/governance" class="local-link"><img src="../assets/img/governance.png" border="0" /></a></td>
 <td align="center"><a href="https://www.ussm.gov/fibf" class="local-link"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1041/2016/01/fibf.ico.png" border="0" /></a></td>
 <td align="center"></td>
 </tr>
