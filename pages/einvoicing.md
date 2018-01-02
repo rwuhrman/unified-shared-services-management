@@ -2,7 +2,7 @@
 layout: pageright
 title: Electronic Invoicing
 permalink: /einvoicing/
-image: ../assets/img/einvoice.icon_.png
+image: /assets/img/einvoice.icon_.png
 ---
 The Federal Government is the largest single purchaser of goods and services in the United States, processing over 19 million invoices each year. One area where more work remains is how the Federal Government interacts with contractors to pay invoices. Approximately 40% of these invoices are processed using electronic invoicing with the remaining using a mix of electronic and manual processes that provide little visibility to businesses and can result in tax dollars being used for late payment fees rather than to support critical agency missions. To address cash flow issues for businesses, particularly small businesses, the Administration took steps to facilitate accelerated payments to small businesses and small business subcontractors. Electronic invoicing can further these goals while also reducing administrative burden and costs to taxpayers. For many agencies, these systems have eliminated inefficient paper-handling processes and reduced late payment penalties. Obtaining the full value of electronic invoicing requires a coordinated approach that will reduce burden and duplication to both agencies and businesses.
 
