@@ -15,12 +15,11 @@ layout: base
 {% if page.banner-heading %}
 
 
-  <DIV style="width: 1040px;" style="border: 1px solid #FF0000;">{{ content }}</DIV>
+  <DIV style="width: 1040px; margin 0 auto;" style="border: 1px solid #FF0000;">{{ content }}</DIV>
 
 
 <section class="usa-grid usa-section" style="border: 1px solid #000000;">
   <div class="usa-width-one-whole usa-end-row"  style="border: 1px solid #FF0000;">
-    
     {{ content }}
     {% if page.content-button-link %}
       <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
