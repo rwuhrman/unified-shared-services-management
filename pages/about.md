@@ -20,6 +20,6 @@ Established in October of 2015, USSM oversees the shared service ecosystem and p
 
 3. Propose and reform policies/guidance to enable the vision for shared services, increase the likelihood of successful migrations, and reduce the barriers to adoption.
     
-USSM is led by its Executive Director, <A HREF="{{site.url}}/bio-beth-angerman">Beth Angerman</A>, and comprised of a mix of employees and detailees from various Federal agencies.
+USSM is led by its Executive Director, <A HREF="../bio-beth-angerman">Beth Angerman</A>, and comprised of a mix of employees and detailees from various Federal agencies.
 
 To learn more about the shared service ecosystem and USSM’s responsibilities see <A HREF="https://obamawhitehouse.archives.gov/sites/default/files/omb/memoranda/2016/m-16-11.pdf">OMB Memorandum 16-11, Improving Administrative Functions Through Shared Services</A>.
