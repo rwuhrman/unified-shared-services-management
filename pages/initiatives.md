@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: generic.centered
 title: Initiatives
 permalink: /initiatives/
 ---
