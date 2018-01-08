@@ -18,8 +18,8 @@ layout: base
   <DIV style="width: 1040px; margin: 200 auto;" style="border: 1px solid #FF0000;">{{ content }}</DIV>
 -->
 
-<section class="usa-grid usa-section">
-  <div class="usa-width-one-whole usa-end-row">
+<section class="usa-grid usa-section" style="background-color: #008800;">
+  <div class="usa-width-one-whole usa-end-row" style="background-color: #0000FF;">
     {{ content }}
     {% if page.content-button-link %}
       <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
