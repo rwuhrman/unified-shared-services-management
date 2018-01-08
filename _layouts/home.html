@@ -20,7 +20,7 @@ layout: base
 
 <section class="usa-grid usa-section" style="background-color: #008800;">
   <div class="usa-width-one-whole usa-end-row" style="background-color: #0000FF;">
-     <h2>{{ page.banner-heading }}</h2>
+     {{ page.banner-heading }}
     {{ content }}
     {% if page.content-button-link %}
       <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
