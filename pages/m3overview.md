@@ -1,5 +1,5 @@
 ---
-layout: m3
+layout: m3overview
 title: M3 Framework Overview
 permalink: /m3overview/
 ---
