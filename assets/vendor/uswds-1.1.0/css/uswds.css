@@ -4608,4 +4608,34 @@ vertical-align: top;}
     clear: both;
 }
 
+/* Set-up Styles for a Multi-Column DIV */
+.MultiContainer {
+    display: flex;
+}
+
+.MultiColumn {
+    flex: 1;
+    
+    background: #f2f2f2;
+    border: 1px solid #e6e6e6;
+    box-sizing: border-box;
+}
+
+.column-one {
+    order: 1;
+}
+.column-two {
+    order: 2;
+}
+.column-three {
+    order: 3;
+}
+.column-four {
+    order: 4;
+}
+.column-five {
+    order: 5;
+}
+
+
 
