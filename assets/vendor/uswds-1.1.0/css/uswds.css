@@ -4593,49 +4593,14 @@ vertical-align: top;}
 	font-weight: strong;
 }
 
-/* Create three equal columns that floats next to each other */
-.CXOcolumn {
-    float: left;
-    width: 33.33%;
-    padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
-}
 
-/* Clear floats after the columns */
-.CXOrow:after {
-    content: "";
-    display: table;
-    clear: both;
-}
 
-/* Set-up Styles for a Multi-Column DIV */
-.MultiContainer {
-    display: flex;
-}
 
-.MultiColumn {
-    flex: 1;
-    
-    background: #f2f2f2;
-    border: 1px solid #e6e6e6;
-    box-sizing: border-box;
+.page_header {
+		font-family: "Poppins, sans-serif"; 
+		COLOR: #FFFFFF; 
+		font-size: 36px; 
+		align: left;	
 }
-
-.column-one {
-    order: 1;
-}
-.column-two {
-    order: 2;
-}
-.column-three {
-    order: 3;
-}
-.column-four {
-    order: 4;
-}
-.column-five {
-    order: 5;
-}
-
 
 
