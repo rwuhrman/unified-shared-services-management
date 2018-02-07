@@ -8,6 +8,7 @@ html {
   box-sizing: inherit;
 }
 
+
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /**
  * 1. Set default font family to sans-serif.
@@ -4591,3 +4592,15 @@ vertical-align: top;}
 	color: #ffffff;
 	font-weight: strong;
 }
+
+
+
+
+.page_header {
+		font-family: "Poppins, sans-serif"; 
+		COLOR: #FFFFFF; 
+		font-size: 36px; 
+		align: left;	
+}
+
+

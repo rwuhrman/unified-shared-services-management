@@ -6,7 +6,7 @@ hero-image: /assets/img/frontpageheader.png
 hero-text: "Our mission is to transform the way government does business internally to improve the way the government services the American public."
 hero-button-text: Learn More
 hero-button-link: /about/
-banner-heading: The mission of GSA is to deliver the best value in real estate, acquisition, and technology services to government and the American people. 
+banner-heading: Common administrative service areas like financial management (FM), human resources (HR), acquisition, information technology (IT), grants management, and travel are performed across all federal agencies. Yet agencies have spent billions of dollars to each individually build their own technology and service capabilities. USSM is transforming the way government does business internally, to drive agencies to share investments in people, business processes and technology; and to function more as one enterprise serving the American public. This strategy, known as shared services, is an industry best practice for reducing cost and eliminating redundancies by streamlining processes, systems and workforce to deliver common administrative services. 
 banner-text: GSA provides centralized procurement for the federal government, offering billions of dollars worth of products, services, and facilities that federal agencies need to serve the public.
 banner-button-text: Learn more
 banner-button-link: /about/
