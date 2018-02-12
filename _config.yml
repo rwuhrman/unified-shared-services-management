@@ -72,6 +72,7 @@ forms:
 
 footer:
   links:
+      - text: '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'
       - text: 'About USSM'
         href: '/site/gsa/unified-shared-services-management/about/'
       - text: 'Initiatives'
