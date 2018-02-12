@@ -78,14 +78,14 @@ footer:
         href: '#'
   image: /assets/img/gsa-logo-dark.jpg
   contact:
-    name: GSA
-    phonenumber: 1-800-555-5555
+    name: Unified Shared Services Management
+    phonenumber: 
     email: ussmteam@gsa.gov
     twitter:
-      - 18f
-    facebook: 18f
-    youtube: 18f
-    rss: 18f
+      - 
+    facebook: 
+    youtube: 
+    rss: 
   text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>.
  # Change to a tag line for your agency
 
