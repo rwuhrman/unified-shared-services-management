@@ -24,7 +24,7 @@ Performance Management</td>
 <td colspan="3"></td>
 </tr>
 <tr>
-<td align="center"><a href="./governance/" class="local-link"><img src="../assets/img/governance.png" border="0" /></a></td>
+<td align="center"><a href="../governance/" class="local-link"><img src="../assets/img/governance.png" border="0" /></a></td>
 <td align="center"><a href="./fibf/" class="local-link"><img src="https://s3.amazonaws.com/sitesusa/wp-content/uploads/sites/1041/2016/01/fibf.ico.png" border="0" /></a></td>
 <td align="center"></td>
 </tr>
