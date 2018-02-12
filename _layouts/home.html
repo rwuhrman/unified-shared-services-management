@@ -30,15 +30,9 @@ layout: base
 <section class="usa-section banner tagline"  >
   <div class="usa-grid" >
     <div class="usa-width-one-whole usa-end-row"  style="background-color:#FF0000;">
-      <h2>{{ page.banner-heading }}</h2>
-      {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
-      {% endif %}
-      {% if page.banner-button-text %}
-      <div class="center-content" style="background-color:#00FF00;">
-        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
-      </div>
-      {% endif %}
+
+  &nbsp;    
+      
     </div>
   </div>
 </section>
@@ -46,7 +40,9 @@ layout: base
 
 <section class="usa-grid usa-section"   style="background-color:#FF0000;">
     <h2>News and Updates</h2>
-    {% include projects.html %}
+ 
+  {% include home.news.updates.html %}
+  
 </section>
 
 {% include contact.html %}
