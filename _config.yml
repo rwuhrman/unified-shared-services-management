@@ -73,15 +73,15 @@ forms:
 footer:
   links:
       - text: 'About USSM'
-        href: '{{ site.baseurl }}/about/'
+        href: '/site/gsa/unified-shared-services-management/about/'
       - text: 'Initiatives'
-        href: '{{site.baseurl }}/initiatives'
+        href: '/site/gsa/unified-shared-services-management/initiatives'
       - text: 'M3 Framework'
-        href: '{{ site.baseurl }}//m3/'
+        href: '/site/gsa/unified-shared-services-management/m3/'
       - text: 'Governance'
-        href: '{{ site.baseurl }}//governance/'
+        href: '/site/gsa/unified-shared-services-management/governance/'
       - text: 'Contact Us'
-        href: '{{ site.baseurl }}//ussm-contact'
+        href: '/site/gsa/unified-shared-services-management/ussm-contact'
         
         
         
