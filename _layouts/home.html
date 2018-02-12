@@ -12,9 +12,6 @@ layout: base
   </div>
 </section>
 
- <span style="font-family: 'Poppins, sans-serif'; font-size: 18px;" >
-outside{% if page.banner-heading %}
-</span>
 
 <!--
   <DIV style="width: 1040px; margin: 200 auto;" style="border: 1px solid #FF0000;">{{ content }}</DIV>
@@ -22,10 +19,13 @@ outside{% if page.banner-heading %}
 
 <section class="usa-grid usa-section" style="background-color: #FFFFFF;">
   <div class="usa-width-one-whole usa-end-row" style="background-color: #FFFFFF;">
-     <span style="font-family: 'Poppins, sans-serif'; font-size: 18px;" >
-     inside  {{ page.banner-heading }}
-    </span>
-       {{ content }}
+  
+    {% include home.ussm.html %}
+    
+    
+      {{ page.banner-heading }}
+    
+    {{ content }}
     {% if page.content-button-link %}
       <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
     {% endif %}
