@@ -75,13 +75,13 @@ footer:
       - text: 'About USSM'
         href: '/site/gsa/unified-shared-services-management/about/'
       - text: 'Initiatives'
-        href: '/site/gsa/unified-shared-services-management/initiatives'
+        href: '/site/gsa/unified-shared-services-management/initiatives/'
       - text: 'M3 Framework'
         href: '/site/gsa/unified-shared-services-management/m3/'
       - text: 'Governance'
         href: '/site/gsa/unified-shared-services-management/governance/'
       - text: 'Contact Us'
-        href: '/site/gsa/unified-shared-services-management/ussm-contact'
+        href: '/site/gsa/unified-shared-services-management/ussm-contact/'
         
         
         
