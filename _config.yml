@@ -73,15 +73,15 @@ forms:
 footer:
   links:
       - text: 'About USSM'
-        href: '{site.baseurl }/about/'
+        href: '{{ site.baseurl }}/about/'
       - text: 'Initiatives'
-        href: '{site.baseurl }//initiatives'
+        href: '{{site.baseurl }}/initiatives'
       - text: 'M3 Framework'
-        href: '{site.baseurl }//m3/'
+        href: '{{ site.baseurl }}//m3/'
       - text: 'Governance'
-        href: '{site.baseurl }//governance/'
+        href: '{{ site.baseurl }}//governance/'
       - text: 'Contact Us'
-        href: '{site.baseurl }//ussm-contact'
+        href: '{{ site.baseurl }}//ussm-contact'
         
         
         
