@@ -72,17 +72,25 @@ forms:
 
 footer:
   links:
-      - text: 'Work'
-        href: '#'
-      - text: 'About'
-        href: '#'
+      - text: 'About USSM'
+        href: '/about/'
+      - text: 'Initiatives'
+        href: '/initiatives'
+      - text: 'M3 Framework'
+        href: '/m3/'
+      - text: 'Governance'
+        href: '/governance/'
+      - text: 'Contact Us'
+        href: '/ussm-contact'
+        
+        
+        
   image: /assets/img/gsa-logo-dark.jpg
   contact:
     name: Unified Shared Services Management
     phonenumber: 
     email: ussmteam@gsa.gov
     twitter:
-      - 
     facebook: 
     youtube: 
     rss: 
