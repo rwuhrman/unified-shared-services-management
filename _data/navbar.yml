@@ -34,6 +34,12 @@ assigned:
                 show_in_menu: false
                 show_in_footer: false
     -
+        text: 'M3 Framework'
+        href: pages/team.md
+        permalink: /m3/
+        show_in_menu: true
+        show_in_footer: false
+    -
         text: 'Governance'
         href: pages/team.md
         permalink: /governance/
