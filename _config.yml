@@ -1,8 +1,8 @@
 # Site settings
 title: Unified Shared Services Management 
 description: Unified Shared Services Management (USSM) 
-baseurl: "/site/gsa/unified-shared-services-management/" # the subpath of your site, e.g. /blog/
-url: "https://federalist-proxy.app.cloud.gov" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://www.ussm.gov/" # the base hostname & protocol for your site
 logo: /assets/img/logo-main.gif
 feature_image: /assets/img/frontpageheader.png
 org_name: GSA
