@@ -1,5 +1,5 @@
 ---
-layout: m3
+layout: m3phase3
 title: M3 Framework
 permalink: /m3phase3/
 ---
