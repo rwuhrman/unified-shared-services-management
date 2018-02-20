@@ -4564,6 +4564,13 @@ vertical-align: top;}
 	font-size: 14px;
 }
 
+
+.ActivtyShared {
+	font-family: calibri;
+	color: #008080;
+	font-size: 14px;
+}
+
 .ActivityCellHeader {
 	background-color: #8c8c8c;
 }
