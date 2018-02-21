@@ -2,7 +2,7 @@
 layout: project
 title: Federal Integrated Business Framework
 description: 
-permalink: /fibf/
+permalink: /fibf_old/
 tags: project
 image: /assets/img/project-images/summer-melt.jpg
 image-credit: https://www.flickr.com/photos/jenumfamily
