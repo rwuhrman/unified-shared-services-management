@@ -43,12 +43,17 @@
 </div>
 
     
-    <table data-toggle="table">
+     <table id="table"
+               data-toggle="table"
+               data-height="460"
+               data-sort-name="name"
+               data-sort-order="id">
+
     <thead>
         <tr>
-            <th>Item ID</th>
-            <th>Item Name</th>
-            <th>Item Price</th>
+            <th data-field="id" data-sortable="true">Item ID</th>
+            <th data-field="name" data-sortable="true">Item Name</th>
+            <th data-field="price" data-sortable="true">Item Price</th>
         </tr>
     </thead>
     <tbody>
