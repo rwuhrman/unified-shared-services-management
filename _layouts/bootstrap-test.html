@@ -5,97 +5,35 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    
-<!-- Latest compiled and minified JavaScript -->
-<script src="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/bootstrap-table.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4-4.0.0/jszip-2.5.0/dt-1.10.16/b-1.5.1/b-html5-1.5.1/b-print-1.5.1/cr-1.4.1/kt-2.3.2/rg-1.0.2/rr-1.2.3/datatables.min.css"/>
+ 
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/pdfmake.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.32/vfs_fonts.js"></script>
+<script type="text/javascript" src="https://cdn.datatables.net/v/bs4-4.0.0/jszip-2.5.0/dt-1.10.16/b-1.5.1/b-html5-1.5.1/b-print-1.5.1/cr-1.4.1/kt-2.3.2/rg-1.0.2/rr-1.2.3/datatables.min.js"></script>
 
-<!-- Latest compiled and minified Locales -->
-<script src="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-table/1.11.1/locale/bootstrap-table-zh-CN.min.js"></script>
-
-    
-    
     
     <title>Hello, world!</title>
   </head>
   <body>
    
-
-   
-   <div class="container">
-        <h1>Custom Toolbar</h1>
-        <p>Use <code>toolbar</code> option to define the custom toolbars.</p>
-        <div id="toolbar">
-            <div class="form-inline" role="form">
-                <div class="form-group">
-                    <span>Offset: </span>
-                    <input name="offset" class="form-control w70" type="number" value="0">
-                </div>
-                <div class="form-group">
-                    <span>Limit: </span>
-                    <input name="limit" class="form-control w70" type="number" value="5">
-                </div>
-                <div class="form-group">
-                    <input name="search" class="form-control" type="text" placeholder="Search">
-                </div>
-                <button id="ok" type="submit" class="btn btn-default">OK</button>
-            </div>
-        </div>
-        <table id="table"
-               data-toggle="table"
-               data-height="460"
-               data-toolbar="#toolbar"
-               data-show-refresh="true"
-               data-show-toggle="true"
-               data-show-columns="true"
-               data-query-params="queryParams"
-               data-response-handler="responseHandler"
-               data-url="/examples/bootstrap_table/data">
-            <thead>
-            <tr>
-                <th data-field="id">ID</th>
-                <th data-field="name">Item Name</th>
-                <th data-field="price">Item Price</th>
-            </tr>
-            </thead>
-        </table>
-    </div>
-
-<script>
-    var $table = $('#table'),
-        $ok = $('#ok');
-    $(function () {
-        $ok.click(function () {
-            $table.bootstrapTable('refresh');
-        });
-    });
-    function queryParams() {
-        var params = {};
-        $('#toolbar').find('input[name]').each(function () {
-            params[$(this).attr('name')] = $(this).val();
-        });
-        return params;
-    }
-    function responseHandler(res) {
-        return res.rows;
-    }
-  
-    </script>
-    
-    
-    
-    
-    
-    
-    
-    
-    
+<table id="table_id" class="display">
+    <thead>
+        <tr>
+            <th>Column 1</th>
+            <th>Column 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Row 1 Data 1</td>
+            <td>Row 1 Data 2</td>
+        </tr>
+        <tr>
+            <td>Row 2 Data 1</td>
+            <td>Row 2 Data 2</td>
+        </tr>
+    </tbody>
+</table>
     
     
     
