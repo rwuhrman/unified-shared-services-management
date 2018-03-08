@@ -4617,3 +4617,8 @@ vertical-align: top;}
 }
 
 
+
+.invisible_table {
+border-style: hidden;	
+	
+}
