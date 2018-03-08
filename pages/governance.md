@@ -20,6 +20,6 @@ Council members represent the interests of their respective agencies across a nu
 [Provider Council](../providers)
 The Provider Council gives Federal agencies who deliver financial management, human resources, acquisition, travel grants management, and the IT a voice in the development of the shared services ecosystem.
 <BR><BR>
-Lines of Business (LoB) Managing Partner Council
+
 [Business Standards Council](../managing-partners)
-The LoB Managing Partner Council provides subject matter expertise for their respective lines of business and drive continued improvement. They play a crucial role to the success of this effort by leading the definition of common business capabilities, data standards, performance metrics and user stories through the Federal Integrated Business Framework.
+The Business Standards Council provides subject matter expertise for their respective service areas to drive continued improvement within and across the landscape of administrative services. Service Area Leads play a crucial role to the success of this effort by leading the definition of common business capabilities, data standards, performance metrics and user stories through the <A HREF="https://www.ussm.gov/fibf">Federal Integrated Business Framework</A>.
