@@ -12,7 +12,6 @@ The SSPO is designated by the OMB Director and has the responsibility and author
 <BR><BR>
 [Shared Solutions Governance Board](../ssgb)
 The Shared Solutions Governance Board (SSGB) is the primary executive body responsible for advising the Shared Service Policy Officer (SSPO) on the development of shared service policies in pursuit of the shared services mission and successful achievement of the shared services vision and goals. Membership includes executives from across the Federal enterprise to provide a broad perspective on opportunities, concerns, and policies related to shared services.
-
 <BR><BR>
 [Provider Council](../providers)
 The Provider Council gives Federal agencies who deliver financial management, human resources, acquisition, travel grants management, and the IT a voice in the development of the shared services ecosystem.
