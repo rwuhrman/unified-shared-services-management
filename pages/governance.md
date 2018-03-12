@@ -10,8 +10,8 @@ This governance structure drives collaboration and change management with stakeh
 The Shared Services Policy Officer (SSPO)
 The SSPO is designated by the OMB Director and has the responsibility and authority, in conjunction with OMB offices, to lead the development and implementation of administrative shared services policy across the government. He or she also co-chairs the Shared Services Governance Board. Lesley Field, The Deputy Administrator for the Office of Federal Procurement Policy at the Office of Management and Budget, is currently serving as the SSPO.
 <BR><BR>
-[Shared Services Governance Board](../ssgb)
-The Shared Services Governance Board (SSGB) is the primary executive body responsible for advising the Shared Service Policy Officer (SSPO) on the development of shared service policies in pursuit of the shared services mission and successful achievement of the shared services vision and goals. Membership includes executives from across the Federal enterprise to provide a broad perspective on opportunities, concerns, and policies related to shared services.
+[Shared Solutions Governance Board](../ssgb)
+The Shared Solutions Governance Board (SSGB) is the primary executive body responsible for advising the Shared Service Policy Officer (SSPO) on the development of shared service policies in pursuit of the shared services mission and successful achievement of the shared services vision and goals. Membership includes executives from across the Federal enterprise to provide a broad perspective on opportunities, concerns, and policies related to shared services.
 
 <BR><BR>
 [Provider Council](../providers)
