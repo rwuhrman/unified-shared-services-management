@@ -3,7 +3,7 @@ layout: council
 title: Provider Council
 description: The Provider Council gives Federal agencies who deliver financial management, human resources, acquisition, travel grants management, and the IT a voice in the development of the shared services ecosystem.   
 permalink: /providers/
-image: /assets/img/customers.png
+image: /assets/img/councils.png
 ---
 | Representation     | Name           | 
 | ------------- |-------------| 
