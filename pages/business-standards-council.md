@@ -2,7 +2,7 @@
 layout: council
 title: Business Standards Council
 permalink: /business-standards-council/
-image: /assets/img/council.png
+image: /assets/img/councils.png
 ---
 Building on the creation of the USSM, OMB Memorandum 16-11 acknowledged that, although each Line of Business (LoB) operates in its own unique environment with specific requirements and challenges, all LoBs would benefit from closer coordination and collaboration supported by a more robust cross-functional governance model. To achieve this end, the LoBs, in coordination with USSM, have established the Business Standards Council to ensure better coordination of the Shared Services initiative.
 
