@@ -29,4 +29,4 @@ image: /assets/img/councils.png
 | Federal Acquisition Service, GSA | Kevin Youel Page      |  
 | Unified Shared Services Management | Beth Angerman      |  
 
-*The Provider Council Co-Chairs serve on the SSGB. They will bring forth recommendations and issues that surface in the Provider Council meetings for consideration to the SSGB.
+<!--p>*The Provider Council Co-Chairs serve on the SSGB. They will bring forth recommendations and issues that surface in the Provider Council meetings for consideration to the SSGB.</p-->
