@@ -50,6 +50,10 @@ function flipImage(strImage) {
   document.svcarea.src = strImage; return true;
 }
   
+    
+  function flipHR(strImage) {
+	  document.hrarea.src = strImage; return true;
+}
   
  </script>
  
@@ -62,26 +66,25 @@ function flipImage(strImage) {
   <img src="../assets/img/fibf/service.areas.hr.hr.png" alt="Service Area Menu" name="svcarea" usemap="#svc-map">
   <CENTER>
 	  <FONT style="font-size:14px;"><B>Employee Lifecycle</B></FONT>
-   <img src="../assets/img/fibf/hr.sub.ta.png" alt="Service Area Menu" name="svcarea" usemap="#hr-map">
+   <img src="../assets/img/fibf/hr.sub.ta.png" alt="Service Area Menu" name="hrarea" usemap="#hr-map">
 	  </CENTER>
-	  
 	  
 	  
 <map name="svc-map">
  <area target="" alt="Human Capital" title="Human Capital" href="../fibf-hr/" 
-          onMouseOver="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');" onMouseOut="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');"
+          onMouseOver="flipHR('../assets/img/fibf/service.areas.hr.hr.png');" onMouseOut="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');"
           coords="109,0,206,125" shape="rect">
     <area target="" alt="Procurement" title="Procurement" href="../fibf-procurement/"
-                 onMouseOver="flipMenu('../assets/img/fibf/service.areas.hr.acq.png');" onMouseOut="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');"
+                 onMouseOver="flipHR('../assets/img/fibf/service.areas.hr.acq.png');" onMouseOut="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');"
           coords="208,2,310,125" shape="rect">
     <area target="" alt="Grants Management" title="Grants Management" href="../fibf-gm/" 
-                 onMouseOver="flipMenu('../assets/img/fibf/service.areas.hr.gm.png');" onMouseOut="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');"
+                 onMouseOver="flipHR('../assets/img/fibf/service.areas.hr.gm.png');" onMouseOut="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');"
           coords="311,1,424,125" shape="rect">
     <area target="" alt="Travel" title="Travel" href="../fibf-travel/" 
-                 onMouseOver="flipMenu('../assets/img/fibf/service.areas.hr.tv.png');" onMouseOut="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');"
+                 onMouseOver="flipHR('../assets/img/fibf/service.areas.hr.tv.png');" onMouseOut="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');"
           coords="427,1,520,125" shape="rect">
     <area target="" alt="Financial Management" title="Financial Management" href="../fibf-fm/" 
-                 onMouseOver="flipMenu('../assets/img/fibf/service.areas.hr.fm.png');" onMouseOut="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');"
+                 onMouseOver="flipHR('../assets/img/fibf/service.areas.hr.fm.png');" onMouseOut="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');"
           coords="6,2,104,124" shape="rect">
 </map>
  
