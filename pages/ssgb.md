@@ -25,7 +25,7 @@ permalink: /ssgb/
 
 
 
-<!--| <center>Representation</center>     | <center>Name</center>           | 
+| Representation     | Name           | 
 | ------------- |-------------| 
 | OMB - Shared Services Policy Officer    | Lesley Field | 
 | Unified Shared Services Management | Beth Angerman   |  
