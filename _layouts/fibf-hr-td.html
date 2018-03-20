@@ -50,6 +50,10 @@ function flipImage(strImage) {
   document.svcarea.src = strImage; return true;
 }
   
+	   function flipHR(strImage) {
+	  document.hrarea.src = strImage; return true;
+}
+	 
   
  </script>
  
@@ -59,8 +63,13 @@ function flipImage(strImage) {
   <BR><font style="font-size: 12px;"><i>Click wheel to review standards</i></font>
   </td>
   <td valign=top  style="border-style: hidden;">
-  <img src="../assets/img/fibf/service.areas.gm.gm.png" alt="Service Area Menu" name="svcarea" usemap="#svc-map"><BR>
-   
+    <img src="../assets/img/fibf/service.areas.hr.hr.png" alt="Service Area Menu" name="svcarea" usemap="#svc-map">
+  <CENTER>
+	  <FONT style="font-size:17px;"><B>Employee Lifecycle</B></FONT>
+   <img name="hrarea" src="../assets/img/fibf/hr.sub.ta.png" alt="Service Area Menu" usemap="#hr-map">
+	  </CENTER>
+	  
+	  
 <map name="svc-map">
  <area target="" alt="Human Capital" title="Human Capital" href="../fibf-hr/" 
           onMouseOver="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');" onMouseOut="flipMenu('../assets/img/fibf/service.areas.hr.hr.png');"
@@ -79,6 +88,24 @@ function flipImage(strImage) {
           coords="6,2,104,124" shape="rect">
 </map>
  
+<map name="hr-map">
+    <area target="" alt="Human Capital - Talent Acquisition" 
+	  onMouseOver="flipHR('../assets/img/fibf/hr.sub.ta.png');" onMouseOut="flipHR('../assets/img/fibf/hr.sub.ta.png');"
+	  title="Human Capital - Talent Acquisition" href="https://www.ussm.gov/fibf-hr" coords="4,2,99,90" shape="rect">
+    <area target="" alt="Human  Capital - Talent Development"  
+	  onMouseOver="flipHR('../assets/img/fibf/hr.sub.td.png');" onMouseOut="flipHR('../assets/img/fibf/hr.sub.ta.png');"
+	  title="Human  Capital - Talent Development" href="https://www.ussm.gov/fibf-hr-td" coords="105,3,194,81" shape="rect">
+    <area target="" alt="Human  Capital - Employee Performance Management"
+	  onMouseOver="flipHR('../assets/img/fibf/hr.sub.epm.png');" onMouseOut="flipHR('../assets/img/fibf/hr.sub.ta.png');"
+	  title="Human  Capital - Employee Performance Management" href="https://www.ussm.gov/fibf-hr-epm" coords="212,6,310,86" shape="rect">
+    <area target="" alt="Human Capital - Compensation and Benefits"
+	  onMouseOver="flipHR('../assets/img/fibf/hr.sub.cb.png');" onMouseOut="flipHR('../assets/img/fibf/hr.sub.ta.png');"
+	  title="Human Capital - Compensation and Benefits" href="https://www.ussm.gov/fibf-hr-cb" coords="317,6,427,87" shape="rect">
+</map>
+
+	  
+	  
+	  
  
  &nbsp;&nbsp;The Federal Integrated Business Framework is a model that enables the Federal government to better coordinate and document common business needs across agencies and focus on outcomes, data, processes and performance. It is the essential first step towards standards that will drive economies of scale and leverage the government’s buying power. 
  <BR><BR>
