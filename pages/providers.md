@@ -5,7 +5,7 @@ description: The Provider Council gives Federal agencies who deliver financial m
 permalink: /providers/
 image: /assets/img/councils.png
 ---
-| Representation     | Name           | 
+| Representation     | --Name           | --
 | ------------- |-------------| 
 | USDA    | Mike Clanton | 
 | Financial Management Services, USDA      | CJ Staton      | 
