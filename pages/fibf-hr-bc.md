@@ -1,5 +1,5 @@
 ---
 layout: fibf-hr-cb
-title: Federal Integrated Business Framework - Human Capital - Benefits and Compensation
+title: Federal Integrated Business Framework - Human Capital - Compensation and Benefits
 permalink: /fibf-hr-cb/
 ---
