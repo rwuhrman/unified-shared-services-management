@@ -1,5 +1,5 @@
 ---
 layout: fibf
 title: Federal Integrated Business Framework
-permalink: /fibf/
+permalink: /fibf-new/
 ---
