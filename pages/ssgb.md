@@ -9,19 +9,25 @@ permalink: /ssgb/
 
 | Representation     | Name           | 
 | ------------- |-------------| 
-| OMB - Shared Services Policy Officer    | Lesley Field | 
-| Unified Shared Services Management | Beth Angerman   |  
+| SSPO (Co-Chair)    | Lesley Field | 
+| USSM ED (Co-Chair) | Beth Angerman   |  
 | Category Management     | John Bashista      | 
-| Chief Financial Officer Council     |  Stacy Marcott      | 
-| Chief Financial Officer Council | Sheila Conley |  
-| Chief Information Officer Council | Joe Klimavicz      |  
-| Chief Information Officer Council | Jason Gray      |  
-| Chief Acquisition Officer Council | Soraya Correa      |  
-| Chief Acquisition Officer Council | Iris Cooper     |  
-| Chief Human Capital Officer Council Representative   | Robert Gibbs        |  
-| Performance Improvement Council | Dat Tran      |  
-| Performance Improvement Council | Henry Hensley       |  
+| CFO Council     |  Stacy Marcott      | 
+| CFO Council | Sheila Conley |  
+| CIO Council | Joe Klimavicz      |  
+| CIO Council | Jason Gray      |  
+| CAO Council | Soraya Correa      |  
+| CAO Council | Iris Cooper     |  
+| CHCO Council   | Bob Gibbs        |  
+| CHCO Council   | Anita Blair        |  
 | Central Policy Agency FM | Dave Lebryk    |  
+| Central Policy Agency HR | Mark Reinhold    |  
+| Central Policy Agency Acq/Travel/Fleet | Jessica Salmoiraghi    |  
+| Small Agency Council | Steve McLaughlin    |  
+| Small Agency Council | Corrine Eilo    |  
+| GSA FAS | Alan Thomas    |  
+| PIC Council | Dat Tran      |  
+
 
 
 
