@@ -13,4 +13,4 @@ OSSPI, in partnership with Office of Personnel and Management (OPM) and the curr
 
 MAESC/CIOC/CFOC members and their staff contributed to the <a href="https://www.ussm.gov/fibf/">standards</a> and acquisition strategy and will continue to play a key role in this transformation. 
 
-This will enable agencies to focus human and fiscal resources on core mission priorities and deploy modern, secure work schedule leave management and payroll solutions to support a modern workforce.  The initiative is referred to as NewPay. The pre-solicitation notice is available on <a href="http://go.usa.gov/xQPCj">FedBizOpps</a> and will close on June 1, 2018. 
+This will enable agencies to focus human and fiscal resources on core mission priorities and deploy modern, secure work schedule leave management and payroll solutions to support a modern workforce.  The initiative is referred to as NewPay. The pre-solicitation notice is available on <a href="https://www.google.com/url?q=https://www.fbo.gov/notices/c3e559e7257212d2e481f9a2de476a20&sa=D&source=hangouts&ust=1527255962103000&usg=AFQjCNFFlZ5ZeUHu8VvXu0Bvzr3bc52lsQ">FedBizOpps</a> and will close on June 1, 2018. 
