@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Federal Integrated Business Framework
+title: Delete Me
 description: 
-permalink: /test.project/
+permalink: /DeleteMe/
 tags: project
 image: /assets/img/project-images/summer-melt.jpg
 image-credit: 

@@ -2,7 +2,7 @@
 layout: council
 title: Customer Council
 description: The Customer Council exists to give consumers of shared services, both current and future, a voice to address current challenges and inform development of the shared services marketplace.<BR><BR>Council members represent the interests of their respective agencies across a number of management functions and are responsible for soliciting input and feedback from their colleagues as appropriate.   
-permalink: /customers/
+permalink: /old-customers/
 image: /assets/img/customers.png
 ---
 | Representation     | Name           | 

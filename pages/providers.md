@@ -3,30 +3,30 @@ layout: council
 title: Provider Council
 description: The Provider Council gives Federal agencies who deliver financial management, human resources, acquisition, travel grants management, and the IT a voice in the development of the shared services ecosystem.   
 permalink: /providers/
-image: /assets/img/customers.png
+image: /assets/img/councils.png
 ---
-| Representation     | Name           | 
-| ------------- |-------------| 
-| USDA    | Mike Clanton | 
-| Financial Management Services, USDA      | CJ Staton      | 
-| National Finance Center, USDA | Calvin Turner|  
-| Defernse Civilian Advisory Service | Mark Breckenridge      |  
-| Defense Finance and Accounting Service | Mary Walsh      |  
-| Department of Commerce | Glenn Davidson      |  
-| Program Support Center | Allen Sample     |  
-| Interior Business Center | Michele Singer        |  
-| Department of State | Jeffrey Mounts   |  
-| Enterprise Services Center, DOT | Robyn Burke      |  
-| TRANServe, DOT | Marie Petrosino-Woolverton       |  
-| Department of Treasury/Treasury Shared Service Center | Debra Vess      |  
-| Department of Treasury/Administrative Resource Center | Doug Anderson*       |  
-| Department of Treasury | Beverly Babers    |  
-| General Services Administration | Heidi Shaeffer      |  
-| National Institutes of Health, HHS | Bridgette Gauer   |  
-| NASA Shared Services Center | Mark Glorioso       |  
-| Human Resources Solutions, OPM |  Reginald Brown     |  
-| Veterans Administration |Thomas Muir       |  
-| Federal Acquisition Service, GSA | Kevin Youel Page      |  
-| Unified Shared Services Management | Beth Angerman      |  
+| Representation     | 
+| ------------- |
+| USDA    |  
+| Financial Management Services, USDA      |  
+| National Finance Center, USDA |   
+| Defernse Civilian Advisory Service | 
+| Defense Finance and Accounting Service | 
+| Department of Commerce |   
+| Program Support Center |  
+| Interior Business Center | 
+| Department of State | 
+| Enterprise Services Center, DOT |   
+| TRANServe, DOT | 
+| Department of Treasury/Treasury Shared Service Center | 
+| Department of Treasury/Administrative Resource Center | 
+| Department of Treasury | 
+| General Services Administration | 
+| National Institutes of Health, HHS |
+| NASA Shared Services Center |   
+| Human Resources Solutions, OPM |  
+| Veterans Administration |  
+| Federal Acquisition Service, GSA | 
+| Unified Shared Services Management |  
 
-*The Provider Council Co-Chairs serve on the SSGB. They will bring forth recommendations and issues that surface in the Provider Council meetings for consideration to the SSGB.
+<!--p>*The Provider Council Co-Chairs serve on the SSGB. They will bring forth recommendations and issues that surface in the Provider Council meetings for consideration to the SSGB.</p-->

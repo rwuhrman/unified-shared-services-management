@@ -1,8 +1,8 @@
 # Site settings
-title: Unified Shared Services Management - Test
-description: Unified Shared Services Management (USSM) - Test 
-baseurl: "/site/rwuhrman/unified-shared-services-management/" # the subpath of your site, e.g. /blog/
-url: "https://federalist-proxy.app.cloud.gov" # the base hostname & protocol for your site
+title: Unified Shared Services Management 
+description: Unified Shared Services Management (USSM) 
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://www.ussm.gov/" # the base hostname & protocol for your site
 logo: /assets/img/logo-main.gif
 feature_image: /assets/img/frontpageheader.png
 org_name: GSA
@@ -72,20 +72,29 @@ forms:
 
 footer:
   links:
-      - text: 'Work'
-        href: '#'
-      - text: 'About'
-        href: '#'
+      - text: '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'
+      - text: 'About USSM'
+        href: '/about/'
+      - text: 'Initiatives'
+        href: '/initiatives/'
+      - text: 'M3 Framework'
+        href: '/m3/'
+      - text: 'Governance'
+        href: '/governance/'
+      - text: 'Contact Us'
+        href: '/ussm-contact/'
+        
+        
+        
   image: /assets/img/gsa-logo-dark.jpg
   contact:
-    name: GSA
-    phonenumber: 1-800-555-5555
+    name: Unified Shared Services Management
+    phonenumber: 
     email: ussmteam@gsa.gov
     twitter:
-      - 18f
-    facebook: 18f
-    youtube: 18f
-    rss: 18f
+    facebook: 
+    youtube: 
+    rss: 
   text: This site was built using <a href="https://federalist.18f.gov/" target="_blank">Federalist, from 18F</a>.
  # Change to a tag line for your agency
 

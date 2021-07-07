@@ -12,44 +12,67 @@ layout: base
   </div>
 </section>
 
-{% if page.banner-heading %}
 
 <!--
   <DIV style="width: 1040px; margin: 200 auto;" style="border: 1px solid #FF0000;">{{ content }}</DIV>
 -->
 
-<section class="usa-grid usa-section" style="background-color: #008800;">
+<section class="usa-grid usa-section" style="background-color: #FFFFFF;">
   <div class="usa-width-one-whole usa-end-row" style="background-color: #FFFFFF;">
-     {{ page.banner-heading }}
-    {{ content }}
-    {% if page.content-button-link %}
-      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
-    {% endif %}
+  
+    {% include home.ussm.html %}
+  
   </div>
 </section>
 
 
 
-<section class="usa-section banner tagline"  >
-  <div class="usa-grid" >
-    <div class="usa-width-one-whole usa-end-row"  style="background-color:#FF0000;">
-      <h2>{{ page.banner-heading }}</h2>
-      {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
-      {% endif %}
-      {% if page.banner-button-text %}
-      <div class="center-content" style="background-color:#00FF00;">
-        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
-      </div>
-      {% endif %}
-    </div>
+<section class="usa-section banner tagline"   style="background-color:#E0E0E0; font-weight: bold; text-align: left; color:#212121;">
+  <div class="usa-grid"  style="background-color:#E0E0E0;" >
+      <!--<A HREF="/fibf"><img alt="Learn more about the Federal Integrated Business Framework" src="/assets/img/fibf/fibf.banner.png" border=0></A> -->
+      NewPay Pre-Solicitation Notice Release: GSA's Office of Unified Shared Services management released a pre-solicitation notice for solutions to modernize and bring efficiencies to the government's payroll and time and attendance systems.
+      <br>
+      <A HREF="/newpay-notice/"><button style="color: #ffffff; background-color: #0071bc; margin-left: 50%; margin-top: 20px;">NewPay</button></A>
   </div>
 </section>
-{% endif %}
 
-<section class="usa-grid usa-section"   style="background-color:#FF0000;">
+<section class="usa-grid usa-section" style="background-color: #FFFFFF;">
+<form id="GD-snippet-form" action="https://public.govdelivery.com/accounts/USGSA/subscribers/qualify" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ZhCoiMxoWiSHeJTiR19j3v2+S7Z6oMVPNTy2Ytiv7ukUos3n+vi5J/Fc0MG7tmBSLdsHmRfj02xB0ztqUS0YWQ==" />
+<input type="hidden" name="topic_id" id="topic_id" value="USGSA_512" />
+<fieldset>
+<legend>
+C-Suite Quarterly Newsletter
+</legend>
+<div>
+Sign up for C-Suite Quarterly, a quarterly update on management priorities, transformation success stories, and tools and information to help agencies improve performance.<BR><BR>
+  
+To sign up for updates or to access your subscriber preferences, please enter your contact information below.
+</div>
+<ol class='form'>
+<li class='email_fields' style='display: block'>
+<label for="email"><img class="required" src="https://public.govdelivery.com/static/required.gif" alt="Required" />Email Address</label>
+<input type="text" name="email" id="email" class="long" />
+
+</li>
+</ol>
+<div class='button_panel'>
+<input type="submit" name="commit" value="Submit" class="form_button" />
+</div>
+</fieldset>
+</form>
+  </section>  
+
+
+
+
+
+
+
+<section class="usa-grid usa-section" style="background-color:#FFFFFF;">
     <h2>News and Updates</h2>
-    {% include projects.html %}
+ 
+  {% include home.news.updates.html %}
+  
 </section>
 
 {% include contact.html %}

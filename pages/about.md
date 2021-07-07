@@ -10,7 +10,7 @@ An ecosystem that eliminates redundancy, reduces risk, and leverages governmentâ
 ### Mission
 Transform the way government does business internally to improve the way the government serves the American public.
 
-Established in October of 2015, USSM oversees the shared service ecosystem and provides the strategy and leadership to make mission enabling services better, faster and cheaper. USSM, in coordination with the White House Office of Management and Budget and the Shared Services Governance Board, works to achieve <B>three strategic goals:</b>
+Established in October of 2015, USSM oversees the shared service ecosystem and provides the strategy and leadership to make mission enabling services better, faster and cheaper. USSM, in coordination with the White House Office of Management and Budget and the Shared Solutions Governance Board, works to achieve <B>three strategic goals:</b>
 
 1. Enable the Federal government to make better decisions by making performance and cost data transparent.
  

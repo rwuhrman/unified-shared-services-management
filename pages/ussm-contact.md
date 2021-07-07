@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: ussm-contact
 title: Contact Us
 permalink: /ussm-contact/
 ---

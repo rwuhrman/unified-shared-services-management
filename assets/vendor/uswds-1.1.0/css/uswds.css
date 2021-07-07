@@ -4564,6 +4564,19 @@ vertical-align: top;}
 	font-size: 14px;
 }
 
+.ActivityProvider {
+	font-family: calibri;
+	color: #008080;
+	font-size: 14px;
+}
+
+
+.ActivtyShared {
+	font-family: calibri;
+	color: #008080;
+	font-size: 14px;
+}
+
 .ActivityCellHeader {
 	background-color: #8c8c8c;
 }
@@ -4601,6 +4614,19 @@ vertical-align: top;}
 		COLOR: #FFFFFF; 
 		font-size: 36px; 
 		align: left;	
+}
+
+
+
+.invisible_table {
+border-style: hidden;	
+	
+}
+
+
+.capability_class {
+font-family: arial;
+font-size: 12px;
 }
 
 
